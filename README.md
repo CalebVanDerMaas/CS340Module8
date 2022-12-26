@@ -1,1 +1,14 @@
-# CS340Module8
+As a computer scientist, I strive to write programs that are maintainable, readable, and adaptable. To make a program maintainable, I follow best practices such as using descriptive and consistent naming conventions, commenting my code, and organizing my code into logical blocks or functions. To make a program readable, I use proper indentation and whitespace, and I try to break up long lines of code into multiple lines for easier readability. To make a program adaptable, I design it with flexibility in mind, so that it can be easily modified or extended to meet new requirements.
+
+In the CRUD Python module from Project One, I used object-oriented programming techniques to create a class that provided a set of methods for connecting to a MongoDB database and performing CRUD operations on it. By encapsulating the database logic within a single class, I was able to create a modular and reusable component that could be easily integrated into different projects. For example, in Project Two, I was able to use the CRUD Python module to quickly and easily connect the dashboard widgets to the database, without having to write a lot of boilerplate code.
+
+When approaching a problem as a computer scientist, I try to follow a systematic and logical process. First, I carefully understand the problem and the requirements, asking clarifying questions if necessary. Then, I break the problem down into smaller, more manageable parts and start working on them one at a time. I also try to identify any potential pitfalls or challenges upfront and plan accordingly. As I work on the problem, I continually test and debug my code to ensure that it is correct and meets the requirements.
+
+In this project, I approached the database and dashboard requirements that Grazioso Salvare requested in a similar way. I carefully read the requirements and asked questions to ensure that I understood them fully. I then broke the requirements down into smaller tasks and worked on them one at a time. I also made sure to test my code thoroughly to ensure that it was working correctly.
+
+As a computer scientist, I work on projects that help companies, like Grazioso Salvare, to do their work better. For example, by creating a dashboard that visualizes data from a database, I can help Grazioso Salvare to quickly and easily analyze and understand their data, identify trends and patterns, and make informed decisions. By creating a database that efficiently stores and manages data, I can help Grazioso Salvare to better organize and access their data, reducing the time and effort required to perform tasks such as searching for records or generating reports.
+
+In the future, I could use the CRUD Python module that I created in this project to quickly and easily connect to a database and perform CRUD operations in other projects. For example, I could use it to create a web application that allows users to view and edit data stored in a database, or to create a command-line tool that allows users to perform database operations from the terminal.
+
+
+
